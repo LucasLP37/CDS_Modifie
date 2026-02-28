@@ -1,0 +1,12 @@
+/**
+ * All creadentials (excluded from github)
+ */
+
+// This GSheets is to help students, please do not modify the database
+// We are collecting anonymous data for continuous improvement
+
+var firestore_credentials = {
+    "project_id": "cds-polytech",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQC41JtRie+La9qh\nl1fgCNwca244/bNHXU7DeZ48efaYqrLSvcYBwOAyFZZTsZzb8zuZ8SUDEOKO+Uua\npVlQDRZ/j2zBH55I1xLq4dt8i6buFkjHfP8QG3n43Xo8Ty9ZxA7+zKpWmyrWotzK\ntVu4tr89zSqey3paxD10VPcpk+UjzkSoomHXL/Wc5vuWRw+AA9iBqqe6Ne7I4R2w\nbV8g/YPX7eUwaqfBcSNukrojoxSkqYAkiA81w5bmHDqj9jTYjoIgBi6HWDK8bodw\nWuonUD3fL9xf25CURo/nL78V0eIWNpjl/W5Pk0oW810srsomoqo6hu9Wmah+8X8F\nxhEVr6A5AgMBAAECgf8qgbq2peJRThyZzRSIkYENiCdxM+dnIi5bBj09606rDZbS\noJJJFPJ6kjxgQxiv/OBYJv08F0YDW5Hnnt9Labci3vlD8OGWHuBa5FZ17igV2Uoj\nlruSGL+UXFsgQ5XALzbDoo4KHOVdN1dPxyWw9VZGAEks+97HwRnhBylQhpLMCN7H\nYkoZ2h9uDrYm1fQ1G1AOltTv0yjz/QnZhkfOZYdVQt7sI8ipE4XMvGTxn3l55Dk5\nNFqbjZ116neeE92lDipzDcYQiA+70EEywyin1j6WGVaBMkR4MlyywJXdcTffWavt\nH+vhkRRKHli6sX8dLre1CvQ5qVPoKHl75S1eMmECgYEA/YAQ7NTHurCGRZLId4gr\nlY/MBCCitcBCrj6atsMiwppYXLjCwLSALx5gT8+AHrrBpaaPkOq28MTAi/h1u7Jo\nqY1MtbDFJx73QQRZDCbFyfNiuv1GEEIRssLBmQ09l3zQ2SRExC78GzaT2Boe8l6B\nuEMX6vc5v8z4/mPM332zHVkCgYEAuqcw9M2dEO7a7re9LuFL8cqecXuLMU2Lct21\n1Ap4AgIqqNLsCIfXsxYAp4JC1wukrOE0fO+Y/zVVeUJoFlkJ3OaPMapPGa5QvFDB\nzyPje1Ie/Q/RvHl++MZyWbOrTQkQxIhzNlTSDli4EOBiSsJ1YVM+fGm+QHL7vFie\nz7O13eECgYBAr3QiKq2IetDYYfsbXTjZ4iaKCxXZ0ORy9/CcoDB3fdD8X/z6FVT8\nMQEcfHNR5A/TyCusK+hgiaQkU1MfgQfp8+9WEXRNZj5rbcOXMTGZNazE0CoXrfQ8\nLCwgdNt5k1Trg7C0atTT0Npq80dgSzNIpH4u68Tlp1UF/MtjX/zbiQKBgQCKpXB3\nF1hpYJNdqTws24uXEoP5FeUB/XDtJQVQeWpFS6i2eN59Q7KUw24+/0J5DJwJEsvz\nVeKXB93y0cIRf5gU72pEYRaao+Iyz+X24Ni0HP8JyTtpPfJ0BqygNxayhV5gLl8u\nZ3kU0RAA8Tvx/lpErhoHPmDk7MRTVpy4+evI4QKBgDNXkTvrh2TsPFYPvAo5eqLh\n6oXuZERg3zOyj4rIVHph9Miv2Af6VEYSYtpBPFvXvIoqwRtIdLw07GnA5ffBjOMA\nCfhEy0ltLg4p5vOlrEs58Foymks+FtJ7lF8XxyaJuwOLlwTYz8LKnij+wlNuXQLI\njBsGaAerYyB3K0K1FisE\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-bfx67@cds-polytech.iam.gserviceaccount.com"
+}

@@ -1,12 +1,12 @@
 # CDS Modifié
-Il s'agit d'une version modifié du [code suivant][1].
+Il s'agit d'une version modifié du [code suivant](https://github.com/louisthomaspro/carnet-de-suivi-dii-polytech).
 
 J'ai créé cette version pour avoir des renseignements persistents sur le tableau (cf. Les ajouts) afin ne pas réécrire ces derniers en cas de nouvelle génération faite suite à une erreur ou un oubli sur le tableau.
 
 ## Les documents
 La nouvelle version :
-- [Du tableau][3]
-- [Du template][4]
+- [Du tableau](https://docs.google.com/spreadsheets/d/1Osv9B_v_sWnTmFMrSbvSD5zTxm3dl3BVhDLaAXkAjKU)
+- [Du template](https://docs.google.com/document/d/1B45Vf1J0u_ICeZy5BmPGWe78_emFUgIcs8pu0cNTXrw)
 
 ## Les ajouts
 Ce version comporte une nouvelle feuille "Info" comportant des informations sur :
@@ -47,10 +47,4 @@ Dans `Help.gs` :
 ## Que faire de cette version ?
 Cette dernière est publier sur ce repo-ci uniquement dans un but expérimental. Plusieurs possibilités :
 - Je peux laisser le code ici
-- Bien évidemment l'[auteur du code d'origine][2] peut reprendre ce dernier
-
-[1]:(https://github.com/louisthomaspro/carnet-de-suivi-dii-polytech)
-[2]:(https://github.com/louisthomaspro)
-
-[3]:(https://docs.google.com/spreadsheets/d/1Osv9B_v_sWnTmFMrSbvSD5zTxm3dl3BVhDLaAXkAjKU)
-[4]:(https://docs.google.com/document/d/1B45Vf1J0u_ICeZy5BmPGWe78_emFUgIcs8pu0cNTXrw)
+- Bien évidemment l'[auteur du code d'origine](https://github.com/louisthomaspro) peut reprendre ce dernier
